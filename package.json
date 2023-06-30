@@ -1,0 +1,24 @@
+{
+  "name": "node-cycles",
+  "version": "1.0.0",
+  "description": "The offical cycles case",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangqiangzgz/node-cycles.git"
+  },
+  "keywords": [
+    "node",
+    "cycles",
+    "commonjs"
+  ],
+  "author": "zhangqiangzgz@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangqiangzgz/node-cycles/issues"
+  },
+  "homepage": "https://github.com/zhangqiangzgz/node-cycles#readme"
+}
